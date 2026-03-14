@@ -87,7 +87,7 @@ torch
 jupyter
 ```
 
-> **Note:** The NLP zero-shot classification step (`cross-encoder/nli-MiniLM2-L6-H768`) processes 12,000+ rows and may take 15–30 minutes on CPU. A GPU (`device=0`) will significantly speed this up.
+> **Note:** The NLP zero-shot classification step (`cross-encoder/nli-MiniLM2-L6-H768`) processes 14,000+ rows and may take 15–30 minutes on CPU. A GPU (`device=0`) will significantly speed this up.
 
 ---
 
