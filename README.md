@@ -32,8 +32,8 @@ Job scams are increasingly prevalent. This project analyses scraped job ad data 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/n0irrr/Fradulent-Job-Ad-Detection.git
+cd ./repo_folder
 ```
 
 ### 2. Create a virtual environment
