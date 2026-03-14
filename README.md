@@ -97,6 +97,6 @@ jupyter
 |---|---|---|---|
 | Random Forest | 0.56 | 0.71 | 0.98 |
 | **XGBoost** | **0.80** | **0.79** | **0.98** |
-| Logistic Regression | 0.74 | 0.28 | 0.86 |
+| Logistic Regression | 0.76 | 0.30 | 0.88 |
 
 **Top fraud signals:** `country_US`, `company_profile_legitimacy_score`, `required_education_High School or equivalent`
