@@ -1,0 +1,13 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+beautifulsoup4
+umap-learn
+scikit-learn
+sentence-transformers
+transformers
+xgboost
+torch
+jupyter
